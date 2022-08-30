@@ -1,5 +1,3 @@
-#include<iostream>
-using namespace std;
 int Array_Insertion(int size,int sizeofArray)
 {
 int sum = 0;
